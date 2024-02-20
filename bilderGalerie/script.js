@@ -1,26 +1,26 @@
 function image1() {
-    document.getElementById("image").src = "../bilderGalerie/image/iceland.jpg";
+    document.getElementById("image").src = "../image/iceland.jpg";
 
     setTimeout(image2, 3000);
 }
 
 function image2() {
     document.getElementById("image").src =
-        "../bilderGalerie/image/volcano1.jpg";
+        "../image//volcano1.jpg";
 
     setTimeout(image3, 3000);
 }
 
 function image3() {
     document.getElementById("image").src =
-        "../bilderGalerie/image/mount-fuji.jpg";
+        "../image//mount-fuji.jpg";
 
     setTimeout(image4, 3000);
 }
 
 function image4() {
     document.getElementById("image").src =
-        "../bilderGalerie/image/volcano2.jpg";
+        "../image/image/volcano2.jpg";
 
     setTimeout(image1, 3000);
 }
