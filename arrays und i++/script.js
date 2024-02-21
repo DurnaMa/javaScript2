@@ -26,6 +26,6 @@ function image3() {
 
 function image4() {
     document.getElementById("image").src = images[i]; // I hat den wrt 4
-    i = 0
+    i = 0;
     setTimeout(image1, 3000);
 }

@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img {
+    width: 100%;
+    height: 940px;
+}
+
+.dia {
+    width: 15%;
+}
+
+.door {
+    width: 150px;
+    height: 150px;
+    background-color: burlywood;
+    margin: 10px;
+}
