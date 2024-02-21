@@ -1,8 +1,8 @@
 let images = [
     "../image/iceland.jpg",
-    "../image//volcano1.jpg",
-    "../image//mount-fuji.jpg",
-    "../image//volcano2.jpg",
+    "../image/volcano1.jpg",
+    "../image/mount-fuji.jpg",
+    "../image/volcano2.jpg",
 ];
 let i = 0;
 
